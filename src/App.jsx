@@ -162,7 +162,7 @@ function App() {
             <h2 className="footer-logo">KOMOREBI<span>.</span></h2>
             <p>Crafting perfection in every cup, creating a community for the refined society.</p>
             <div className="social-pills">
-              <a href="#"><Instagram size={18} /></a>
+              <a href="https://www.instagram.com/rajafidhiazka?igsh=M2l0YTYwZGwzYmM2"><Instagram size={18} /></a>
               <a href="#"><Facebook size={18} /></a>
               <a href="#"><Twitter size={18} /></a>
             </div>
@@ -180,7 +180,7 @@ function App() {
           </div>
         </div>
         <div className="footer-bottom">
-          <p>© 2026 KOMOREBI ROASTERY. "FINDING BEAUTY IN THE FLEETING MOMENTS</p>
+          <p>© 2026 KOMOREBI ROASTERY. FINDING BEAUTY IN THE FLEETING MOMENTS</p>
         </div>
       </footer>
     </div>
